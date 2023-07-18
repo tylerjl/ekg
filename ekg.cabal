@@ -50,7 +50,7 @@ library
     snap-core < 1.1,
     snap-server >= 1.1.2.0,
     text,
-    time < 1.10,
+    time,
     transformers < 0.6,
     unordered-containers < 0.3
 
